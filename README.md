@@ -18,3 +18,5 @@ If you are developing a production application, we recommend using TypeScript wi
 # Addressed TODO from previous session
 
 <!-- commit-log: 2026-02-03T21:41:31 - style: update color palette and spacing tokens -->
+
+<!-- commit-log: 2026-02-07T15:08:10 - fix: correct date formatting in display components -->
