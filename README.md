@@ -28,3 +28,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-02-14T13:08:28 - style: update color palette and spacing tokens -->
 
 <!-- commit-log: 2026-02-18T10:47:24 - refactor: extract reusable Card component -->
+
+<!-- commit-log: 2026-02-19T17:10:54 - refactor: split large component into sub-components -->
