@@ -30,3 +30,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-02-18T10:47:24 - refactor: extract reusable Card component -->
 
 <!-- commit-log: 2026-02-19T17:10:54 - refactor: split large component into sub-components -->
+
+<!-- commit-log: 2026-02-23T12:57:40 - refactor: convert class component to functional with hooks -->
