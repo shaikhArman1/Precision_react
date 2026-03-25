@@ -48,3 +48,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-03-22T21:56:15 - feat: add form validation with error messages -->
 
 <!-- commit-log: 2026-03-24T17:52:49 - fix: handle empty state in list components -->
+
+<!-- commit-log: 2026-03-25T12:54:23 - refactor: split large component into sub-components -->
