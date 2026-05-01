@@ -60,3 +60,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-05-01T13:34:36 - refactor: split large component into sub-components -->
 
 <!-- commit-log: 2026-05-01T16:32:20 - fix: handle empty state in list components -->
+
+<!-- commit-log: 2026-05-01T19:38:11 - style: update color palette and spacing tokens -->
