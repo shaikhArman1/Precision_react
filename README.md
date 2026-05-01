@@ -56,3 +56,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-05-01T09:14:27 - feat: add loading skeleton for async data -->
 
 <!-- commit-log: 2026-05-01T10:00:18 - feat: add loading skeleton for async data -->
+
+<!-- commit-log: 2026-05-01T13:34:36 - refactor: split large component into sub-components -->
