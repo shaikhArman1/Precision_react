@@ -62,3 +62,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-05-01T16:32:20 - fix: handle empty state in list components -->
 
 <!-- commit-log: 2026-05-01T19:38:11 - style: update color palette and spacing tokens -->
+
+<!-- commit-log: 2026-05-01T21:46:35 - style: improve button hover transitions -->
