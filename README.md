@@ -52,3 +52,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-03-25T12:54:23 - refactor: split large component into sub-components -->
 
 <!-- commit-log: 2026-03-28T19:34:14 - chore: configure ESLint rules for consistency -->
+
+<!-- commit-log: 2026-05-01T09:14:27 - feat: add loading skeleton for async data -->
