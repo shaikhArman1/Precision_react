@@ -72,3 +72,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-05-11T12:31:38 - fix: resolve stale closure in useEffect hook -->
 
 <!-- commit-log: 2026-05-11T15:16:57 - refactor: extract reusable Card component -->
+
+<!-- commit-log: 2026-05-11T20:58:29 - feat: add dark mode toggle support -->
