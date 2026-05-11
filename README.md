@@ -68,3 +68,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-05-11T10:39:28 - fix: correct date formatting in display components -->
 
 <!-- commit-log: 2026-05-11T12:23:23 - chore: update package.json dependencies -->
+
+<!-- commit-log: 2026-05-11T12:31:38 - fix: resolve stale closure in useEffect hook -->
