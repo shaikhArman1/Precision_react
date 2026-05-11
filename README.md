@@ -66,3 +66,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-05-01T21:46:35 - style: improve button hover transitions -->
 
 <!-- commit-log: 2026-05-11T10:39:28 - fix: correct date formatting in display components -->
+
+<!-- commit-log: 2026-05-11T12:23:23 - chore: update package.json dependencies -->
