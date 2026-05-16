@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: "Inter", system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #1a1a2e;
+    background: #ffffff;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-brand-600 text-white px-6 py-3 rounded-lg font-medium
+           hover:bg-brand-700 transition-all duration-200 
+           focus:outline-none focus:ring-2 focus:ring-brand-400 focus:ring-offset-2
+           active:scale-[0.98];
+  }
+
+  .btn-outline {
+    @apply border border-gray-300 text-gray-800 px-6 py-3 rounded-lg font-medium
+           hover:border-brand-600 hover:text-brand-600 transition-all duration-200
+           focus:outline-none focus:ring-2 focus:ring-brand-400 focus:ring-offset-2
+           active:scale-[0.98];
+  }
+
+  .btn-white {
+    @apply bg-white text-brand-600 px-6 py-3 rounded-lg font-medium
+           hover:bg-gray-50 transition-all duration-200
+           focus:outline-none focus:ring-2 focus:ring-white/50
+           active:scale-[0.98];
+  }
+
+  .input-field {
+    @apply w-full px-4 py-3 border border-gray-200 rounded-lg text-sm
+           placeholder:text-gray-400
+           focus:outline-none focus:ring-2 focus:ring-brand-500 focus:border-transparent
+           transition-all duration-200;
+  }
+
+  .card {
+    @apply bg-white rounded-xl border border-gray-100 shadow-sm
+           hover:shadow-md transition-shadow duration-300;
+  }
+
+  .section-label {
+    @apply text-xs font-semibold tracking-[0.2em] uppercase text-brand-600;
+  }
+
+  .page-section {
+    @apply max-w-7xl mx-auto px-6 sm:px-8 lg:px-12;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .gradient-blue {
+    @apply bg-gradient-to-br from-brand-500 to-brand-700;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+  background: #c4c4c4;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #a0a0a0;
+}
