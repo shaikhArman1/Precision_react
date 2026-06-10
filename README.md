@@ -90,3 +90,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-06-10T16:40:41 - refactor: convert class component to functional with hooks -->
 
 <!-- commit-log: 2026-06-10T18:09:09 - style: add micro-animations for better UX -->
+
+<!-- commit-log: 2026-06-10T19:26:13 - fix: resolve state update causing unnecessary re-renders -->
