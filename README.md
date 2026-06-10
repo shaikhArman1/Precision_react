@@ -78,3 +78,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-06-10T09:07:04 - style: add micro-animations for better UX -->
 
 <!-- commit-log: 2026-06-10T11:50:55 - chore: update package.json dependencies -->
+
+<!-- commit-log: 2026-06-10T11:53:20 - docs: update component props documentation -->
