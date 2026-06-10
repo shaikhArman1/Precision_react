@@ -74,3 +74,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-05-11T15:16:57 - refactor: extract reusable Card component -->
 
 <!-- commit-log: 2026-05-11T20:58:29 - feat: add dark mode toggle support -->
+
+<!-- commit-log: 2026-06-10T09:07:04 - style: add micro-animations for better UX -->
