@@ -82,3 +82,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-06-10T11:53:20 - docs: update component props documentation -->
 
 <!-- commit-log: 2026-06-10T13:52:47 - feat: implement pagination for large data sets -->
+
+<!-- commit-log: 2026-06-10T15:06:40 - feat: add loading skeleton for async data -->
