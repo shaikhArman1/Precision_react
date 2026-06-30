@@ -100,3 +100,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-06-30T14:33:42 - fix: correct z-index layering on modal overlay -->
 
 <!-- commit-log: 2026-06-30T20:43:32 - feat: add loading skeleton for async data -->
+
+<!-- commit-log: 2026-06-30T20:45:43 - fix: resolve stale closure in useEffect hook -->
