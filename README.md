@@ -96,3 +96,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-06-10T21:38:35 - fix: correct date formatting in display components -->
 
 <!-- commit-log: 2026-06-30T11:12:21 - chore: update package.json dependencies -->
+
+<!-- commit-log: 2026-06-30T14:33:42 - fix: correct z-index layering on modal overlay -->
