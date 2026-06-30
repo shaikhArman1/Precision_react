@@ -102,3 +102,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-06-30T20:43:32 - feat: add loading skeleton for async data -->
 
 <!-- commit-log: 2026-06-30T20:45:43 - fix: resolve stale closure in useEffect hook -->
+
+<!-- commit-log: 2026-06-30T21:30:42 - feat: add dark mode toggle support -->
