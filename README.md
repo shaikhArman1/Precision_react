@@ -94,3 +94,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-06-10T19:26:13 - fix: resolve state update causing unnecessary re-renders -->
 
 <!-- commit-log: 2026-06-10T21:38:35 - fix: correct date formatting in display components -->
+
+<!-- commit-log: 2026-06-30T11:12:21 - chore: update package.json dependencies -->
