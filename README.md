@@ -98,3 +98,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-06-30T11:12:21 - chore: update package.json dependencies -->
 
 <!-- commit-log: 2026-06-30T14:33:42 - fix: correct z-index layering on modal overlay -->
+
+<!-- commit-log: 2026-06-30T20:43:32 - feat: add loading skeleton for async data -->
