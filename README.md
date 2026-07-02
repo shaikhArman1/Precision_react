@@ -110,3 +110,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-07-02T11:06:57 - style: add micro-animations for better UX -->
 
 <!-- commit-log: 2026-07-02T11:48:05 - docs: update component props documentation -->
+
+<!-- commit-log: 2026-07-02T11:26:05 - refactor: convert class component to functional with hooks -->
