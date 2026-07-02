@@ -114,3 +114,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-07-02T11:26:05 - refactor: convert class component to functional with hooks -->
 
 <!-- commit-log: 2026-07-02T12:00:51 - feat: add keyboard navigation support -->
+
+<!-- commit-log: 2026-07-02T12:10:05 - feat: improve responsive layout for mobile screens -->
