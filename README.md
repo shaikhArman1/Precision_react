@@ -138,3 +138,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-08-08T13:47:40 - fix: resolve state update causing unnecessary re-renders -->
 
 <!-- commit-log: 2026-08-08T14:55:33 - fix: handle empty state in list components -->
+
+<!-- commit-log: 2026-08-08T16:24:43 - fix: correct date formatting in display components -->
