@@ -142,3 +142,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-08-08T16:24:43 - fix: correct date formatting in display components -->
 
 <!-- commit-log: 2026-08-08T20:24:13 - feat: improve responsive layout for mobile screens -->
+
+<!-- commit-log: 2026-08-28T09:58:29 - feat: add loading skeleton for async data -->
