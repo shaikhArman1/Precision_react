@@ -150,3 +150,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-08-28T14:53:48 - docs: update component props documentation -->
 
 <!-- commit-log: 2026-08-28T19:39:33 - chore: configure ESLint rules for consistency -->
+
+<!-- commit-log: 2026-08-28T21:58:53 - style: add micro-animations for better UX -->
