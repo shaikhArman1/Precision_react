@@ -152,3 +152,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- commit-log: 2026-08-28T19:39:33 - chore: configure ESLint rules for consistency -->
 
 <!-- commit-log: 2026-08-28T21:58:53 - style: add micro-animations for better UX -->
+
+<!-- commit-log: 2026-09-02T12:54:53 - style: improve button hover transitions -->
